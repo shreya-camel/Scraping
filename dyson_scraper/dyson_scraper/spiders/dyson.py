@@ -4,9 +4,9 @@ from urllib.parse import urljoin
 
 class DysonSpider(scrapy.Spider):
     name = "dyson"
-    allowed_domains = ["support.dyson.com"]
+    allowed_domains = ["dyson.com"]
     start_urls = [
-        "https://support.dyson.com/support/"
+        "https://www.dyson.com/support"
     ]
 
     def parse(self, response):
