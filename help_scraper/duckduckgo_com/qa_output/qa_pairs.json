@@ -1,0 +1,1177 @@
+[
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/atb",
+    "question": "How We Anonymously Test Product Changes",
+    "answer": "First, you might notice that when you search DuckDuckGo, there may be an &atb= parameter in the URL in your browser address bar. This parameter allows us to anonymously A/B (split) test product changes we make to DuckDuckGo. For example, if users in group A get blue links and users in group B get red links, this lets us measure how usage of DuckDuckGo is impacted by link color. For some product tests, we may need to ensure a consistent user experience across page loads or after interactions with an element on the page. In those cases, we may store non-personal data using local storage (e.g., the large and generalized user experience group you're in). But that information is only ever stored on your device and is removed after the test is complete."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/atb",
+    "question": "How We Anonymously Estimate How Many People Use DuckDuckGo",
+    "answer": "You may notice similar atb.js or exti requests made by DuckDuckGo browser extensions and mobile apps. These requests help us anonymously count how many devices are using an experience. For example, our browser extensions and mobile apps will send an atb.js request with each search made. These requests allow us to count approximately how many devices accessed DuckDuckGo without knowing anything about those devices or the exact searches they made."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/atb",
+    "question": "How We Anonymously Measure Search Performance",
+    "answer": "While searching on DuckDuckGo, you may see &perf_id and &parent_perf_id parameters in certain network requests. These parameters allow us to measure the performance of essential components of a search engine, including performance of database and cache calls, fraud detection and rate limit functions, as well as return time and results processing upstream calls within queries. We use this data to help identify opportunities to improve the search experience, for example, to identify how we can deliver high-quality answers faster. The parameter values are randomly generated per search and are not associated with users, user agents, or IP addresses."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/atb",
+    "question": "How We Anonymously Measure Search Engagement",
+    "answer": "For certain elements in our search pages, you may notice the &vis parameter being used in requests. This parameter allows us to measure usefulness by identifying which elements were actually visible on a page or received an interaction like hovering. Because of different screen sizes, visibility can be very different across devices (e.g., desktop vs. mobile vs. tablet). As users click on these elements, we use this interaction data to measure conversions. The parameter values are anonymous, grouped together in batches, and are devoid of any personally identifiable information."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/atb",
+    "question": "We Don’t Track You: It’s All Privacy by Design",
+    "answer": "None of the above types of requests have personally identifiable information embedded in them, and we do not store any IP addresses associated with them. This is the case with all other requests to DuckDuckGo. And all these types of requests are fully encrypted in transit to DuckDuckGo so that nobody else can see them."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/anonymous-localized-results",
+    "question": "Learn more about your browser’s location services",
+    "answer": "As mentioned above, browsers use a variety of techniques browsers use to identify an accurate location, which may present their own privacy implications. These vary by browser and depend in part on the location service the browser uses. Most major browsers provide detailed information on the location service they use and its associated policies:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search",
+    "question": "Higher return on investment vs other search engines",
+    "answer": "DuckDuckGo offers fewer ads than other major search engines to create a differentiated user-experience. This gives the ads we show greater prominence on the page and increases the likelihood that customers will click through and continue their purchasing journey. Choosing to advertise on DuckDuckGo lets advertisers tap into the broader Microsoft Advertising Network which helps deliver the best click for a campaign to reach customers efficiently."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search",
+    "question": "A leader in US and international mobile market share",
+    "answer": "DuckDuckGo owns the #2 position in mobile market share in the US, and 20 other markets including Australia, Austria, Belgium, Canada, Denmark, India, Ireland, Italy, Luxembourg, Malta, New Zealand, Norway, Poland, Portugal, Spain, Sweden, Switzerland, and the United Kingdom."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search",
+    "question": "Reach valuable users who can’t be found on Google (or other search engines)",
+    "answer": "Our research suggests that there are millions of DuckDuckGo users who don’t use Google Search. By advertising on DuckDuckGo, advertisers can extend their campaign reach and access even more customers who they otherwise might miss."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/fastpeoplesearch-removal",
+    "question": "FastPeopleSearch Removal Fast Facts",
+    "answer": "Personal information available: Names, addresses, phone numbers, email addresses, relatives, associates, and more Visibility: Fully visible Opt-out time estimate: 5 minutes Difficulty: Low to medium Email confirmation required: Yes Phone confirmation required: No Processing time: Claims 72 hours, but usually takes 1 hour Captcha requirement: Yes, reCaptcha"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/fastpeoplesearch-removal",
+    "question": "FastPeopleSearch Removal Process (Step-by-Step)",
+    "answer": "The process to remove your personal information from FastPeopleSearch is relatively straightforward. To opt out, follow these steps:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/fastpeoplesearch-removal",
+    "question": "What is FastPeopleSearch?",
+    "answer": "FastPeopleSearch is a data broker, compiling publicly available personal information and making it publicly accessible. FastPeopleSearch gathers data from government records, other data brokers, and various online sources to create detailed profiles for individual American citizens. These profiles are likely to include the following personal information:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/fastpeoplesearch-removal",
+    "question": "How does FastPeopleSearch get my information?",
+    "answer": "FastPeopleSearch collects data from various public sources, such as:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/fastpeoplesearch-removal",
+    "question": "My personal info is still in search engines. Why?",
+    "answer": "Even after removal, your name might still appear in search results. This happens because search engines like Google and Bing cache older pages and update periodically."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/fastpeoplesearch-removal",
+    "question": "Frequently Asked Questions About FastPeopleSearch Removal",
+    "answer": "Can I remove my information permanently?"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/fastpeoplesearch-removal",
+    "question": "Can I remove my information permanently?",
+    "answer": "Yes, but your data may reappear over time as FastPeopleSearch updates its database. It’s recommended to check periodically and to resubmit opt-out requests if necessary."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/fastpeoplesearch-removal",
+    "question": "Does FastPeopleSearch sell my information?",
+    "answer": "No, but it aggregates data from third-party brokers. If you click through to purchase a report from FastPeopleSearch, it processes through PeopleFinders, another people search site."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/fastpeoplesearch-removal",
+    "question": "Will this remove my data from other sites?",
+    "answer": "Removing your personal information from FastPeopleSearch will simultaneously remove it from other sites such as PeopleFinders, SmartBackgroundChecks, and others."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/fastpeoplesearch-removal",
+    "question": "Are there automatic removal services?",
+    "answer": "There are data removal services online specializing in removing personal information from people search sites."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/fastpeoplesearch-removal",
+    "question": "How can I prevent my info from appearing again?",
+    "answer": "While it is difficult to completely remove your personal information from the internet, there are some common steps that can be taken to help prevent it from appearing as often:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/fastpeoplesearch-removal",
+    "question": "Our Final Thoughts",
+    "answer": "FastPeopleSearch exposes personal details that can be misused. Fortunately, their free opt-out process is simple but requires regular monitoring to ensure your privacy."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/how-to-choose-the-best-vpn",
+    "question": "How to Choose the Best VPN",
+    "answer": "Want to choose the best VPN for your needs? There are a few factors to consider. Some of the most common are price; number and location of servers offered; data caps; and the provider’s reputation and privacy practices."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/how-to-choose-the-best-vpn",
+    "question": "VPN Pricing and Subscription Model",
+    "answer": "VPN services typically offer varied pricing. When selecting the best VPN for your needs, it's crucial to balance affordability with the quality of the service. This helps to ensure your online privacy and security needs are met without compromise."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/how-to-choose-the-best-vpn",
+    "question": "Are Free VPNs Worth It?",
+    "answer": "When you start looking for a VPN, one of the first things you’ll notice is that there are a lot of choices, both free and paid. It’s worth remembering that picking a VPNs is akin to making any purchase — you get what you pay for ."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/how-to-choose-the-best-vpn",
+    "question": "VPN Data Caps or Allowances",
+    "answer": "Data caps limit the amount of data you can send through VPN servers every month. These caps can make a big difference when you choose a VPN, especially if your online activities demand a lot of data, like gaming or streaming."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/how-to-choose-the-best-vpn",
+    "question": "VPN Servers and Locations",
+    "answer": "The number of servers and server locations offered by your VPN can have a big impact on day-to-day performance. Connecting to a server near you is generally faster than connecting to one far away, for example."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/how-to-choose-the-best-vpn",
+    "question": "Reputation of the VPN Provider",
+    "answer": "You should always investigate a VPN provider's reputation before signing up. By necessity, all your internet traffic and data passes through your VPN, so you want to make sure you're not opening yourself up to more risk. Looking at a combination of user reviews and expert opinions can be helpful. Don’t forget to check the company’s history for any data breaches or privacy issues."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/how-to-choose-the-best-vpn",
+    "question": "VPN Privacy Policy",
+    "answer": "It's crucial to review VPN privacy policies thoroughly before signing up. You’ll want to understand if providers collect and use data, especially if they share it with third parties. The best VPN options maintain a stringent no-logging policy, guaranteeing that your online activity isn’t tracked or stored."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/what-does-a-vpn-do",
+    "question": "What Does a VPN Do? How Does a VPN Work?",
+    "answer": "When you use a VPN, you’re creating a secure and encrypted “tunnel” for internet traffic between your device and the wider internet — including the websites you visit and the apps you use. This prevents outsiders from intercepting and reading your data."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/what-does-a-vpn-do",
+    "question": "What Do VPNs Hide?",
+    "answer": "Protecting your connection with a VPN encrypts your internet traffic. This conceals your browsing history, location data, and other personal info from outsiders."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/what-does-a-vpn-do",
+    "question": "How Does a VPN Hide My IP Address?",
+    "answer": "Your IP address is typically assigned based on the physical location of your computer or phone. When your internet connection is routed through a VPN server, that location-based IP address is replaced with the VPN server’s address."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/what-does-a-vpn-do",
+    "question": "How Does Encryption Work?",
+    "answer": "Encryption acts like a digital lockbox. It turns your data into a “secret code” during transmission. This means even if someone intercepts your data (like your ISP), without the unique decryption key for your device and VPN, it remains unreadable."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/what-does-a-vpn-do",
+    "question": "How Does Tunneling Work?",
+    "answer": "Tunneling technology wraps your data in highly secure “packets” for its journey across the internet, effectively enabling it to traverse public networks with a high degree of safety."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/what-does-a-vpn-do",
+    "question": "Comparing VPN Protocols",
+    "answer": "VPN protocols determine how data is transmitted and encrypted between your device and the VPN server. These protocols affect VPN speed, security, and reliability. The five most common protocols are:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/why-use-a-vpn",
+    "question": "Why Use a VPN?",
+    "answer": "Why would someone use a VPN? If you’re looking to enhance your online privacy, a VPN can help by:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/why-use-a-vpn",
+    "question": "Using a VPN for Travel",
+    "answer": "If you’re a frequent traveler, there are lots of reasons to try a VPN."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/why-use-a-vpn",
+    "question": "Using a VPN on Public Wi-Fi",
+    "answer": "Public Wi-Fi is convenient, but there are inherent privacy risks to connecting to insecure networks that a VPN can help you avoid. For example, cybercriminals can use public connections to intercept sensitive information, like your passwords and banking details."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/why-use-a-vpn",
+    "question": "Using a VPN for Streaming",
+    "answer": "Do you notice your internet connection slowing down when you’re gaming or streaming video content?"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/why-use-a-vpn",
+    "question": "Using a VPN While Shopping or Browsing the Web",
+    "answer": "VPNs are also useful for day-to-day tasks like online shopping. Securing your connection with a VPN helps protect your credit card number, billing address, and other sensitive data from bad actors."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/why-use-a-vpn",
+    "question": "Using a VPN When Seeking Anonymity",
+    "answer": "Looking to keep your online identity under wraps? A VPN can help with that. By masking your IP address and encrypting your internet connection, a VPN keeps your browsing, shopping, and chat histories private."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/why-use-a-vpn",
+    "question": "Pros and Cons of VPN Usage",
+    "answer": "As you’re considering which VPN is right for you, it’s important to consider both the pros and the cons."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/why-use-a-vpn",
+    "question": "Benefits of VPN Usage",
+    "answer": "A good VPN can do a lot for you. VPNs create a secure, encrypted “tunnel” for all your internet traffic, masking your IP address, obscuring your physical location, and preventing outsiders from intercepting your data in transit."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/why-use-a-vpn",
+    "question": "Potential VPN Disadvantages",
+    "answer": "There are potential downsides to using a VPN, especially if it’s not from a reputable provider. Some VPNs may slow down your internet connection, others may have a very limited data allowance, or they might not be compatible with all types of devices, apps, or sites."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/why-use-a-vpn",
+    "question": "VPN FAQ: Answering Frequently Asked Questions",
+    "answer": "Here are answers to some of the most frequently asked questions about VPNs."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/why-use-a-vpn",
+    "question": "What does VPN stand for?",
+    "answer": "VPN stands for Virtual Private Network, a technology that creates a secure, encrypted connection over a less secure network, typically the wider internet."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/why-use-a-vpn",
+    "question": "Can my ISP see what sites I visit with VPN services on?",
+    "answer": "The short answer is, no. When you use a VPN, your ISP only sees encrypted data flowing between your device and your VPN server. They can’t see the specific websites you’re visiting. This also cloaks your internet footprint from bad actors, online tracking, and more."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/why-use-a-vpn",
+    "question": "How secure is a VPN really?",
+    "answer": "The level of security provided by a VPN depends on its encryption protocols and its operational policies. The most secure VPNs implement robust encryption techniques and uphold stringent no-logging policies, offering virtually fortress-like security for your digital footprint."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/why-use-a-vpn",
+    "question": "What is a remote access VPN?",
+    "answer": "A remote access VPN lets users securely connect to a private network from a remote location. This type of VPN is generally used by businesses, rather than individuals. For example, some remote access VPNs allow employees to securely access company resources from outside the office."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/why-use-a-vpn",
+    "question": "Will using a VPN slow down my Internet speeds?",
+    "answer": "All VPN usage will likely result in some reduction in speed. The best VPN providers will use protocols that minimize speed decreases, such as WireGuard (used in the DuckDuckGo VPN). Additionally, a VPN provider that uses higher-quality server hardware can support more overall bandwidth."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/why-use-a-vpn",
+    "question": "What is a double VPN?",
+    "answer": "Double VPNs route your internet traffic through two VPN servers, instead of one. This adds an extra layer of encryption and makes your activity even harder to trace, typically at the detriment of browsing speed."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn/why-use-a-vpn",
+    "question": "How do I choose a browser VPN?",
+    "answer": "When picking a VPN, you can sign up for a standalone service, typically accessed through an app, or you can choose a browser that has a VPN built right in, removing the need for an extra app."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/vpn",
+    "question": "What Is a VPN?",
+    "answer": "A VPN, or “virtual private network,” is a cybersecurity tool that creates a private and encrypted connection for internet traffic to and from your device by routing it through a remote server. This encrypted connection, often referred to as a “tunnel,” keeps your online activities private and prevents outsiders from intercepting your data."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/identity-theft/best-identity-theft-protection-tips",
+    "question": "How to Prevent Identity Theft: 8 Best Identity Theft Protection Tips",
+    "answer": "Preventing identity theft can seem daunting. However, there are plenty of simple steps you can take to secure your sensitive information."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/identity-theft/best-identity-theft-protection-tips",
+    "question": "Tip #1: Keep Track of Physical Mail and Bank Statements",
+    "answer": "Looking to keep sensitive information out of your mailbox? One surefire way to decrease the threat of sensitive documents being intercepted is to decrease the volume of mail you receive. Many banks, insurance companies, and utility companies offer electronic billing. Consider opting to get your bills and statements by email to reduce the risk of thieves intercepting your physical mail."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/identity-theft/best-identity-theft-protection-tips",
+    "question": "Tip #2: Opt Out of Credit Card Offers Whenever Possible",
+    "answer": "Unsolicited credit card offers are a common target for identity thieves. But you can minimize exposure to credit card fraud by reducing how much unsolicited “junk mail” you receive."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/identity-theft/best-identity-theft-protection-tips",
+    "question": "Tip #3: Routinely Check Your Credit Report",
+    "answer": "Consider requesting and reviewing your credit report for unauthorized activity. It’s wise to do this at least once a year – just be careful to avoid credit report-related scams !"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/identity-theft/best-identity-theft-protection-tips",
+    "question": "Tip #4: Avoid Sharing Personally Identifiable Information When Possible",
+    "answer": "Needing to provide your Social Security number to third parties is extremely uncommon. Be suspicious if you are asked to provide your Social Security number, or any other highly personal details, especially in unsolicited calls or emails."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/identity-theft/best-identity-theft-protection-tips",
+    "question": "Tip #5: Learn How To Remove Your Information From the Internet",
+    "answer": "Regularly search for your name online to monitor and address unauthorized sharing of your personally identifiable information. There are a number of online tools and services to remove your information from data broker sites and search engines."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/identity-theft/best-identity-theft-protection-tips",
+    "question": "Tip #6: Use Strong Passwords for Online Accounts",
+    "answer": "Create complex passwords using a mix of letters, numbers, and symbols. It can be tempting to reuse your favorite passwords, but you should avoid it whenever possible!"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/identity-theft/best-identity-theft-protection-tips",
+    "question": "Tip #7: Enable Two-Factor Authentication on All Online Accounts",
+    "answer": "Enable two-factor authentication (2FA) to give an extra layer of security to sensitive accounts."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/identity-theft/best-identity-theft-protection-tips",
+    "question": "Tip #8: Use an Identity Theft Protection Service for Peace of Mind",
+    "answer": "Consider signing up for a professional identity theft protection service that offers credit monitoring, alerts, and recovery services."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/identity-theft/identity-theft-protection",
+    "question": "Types of Identity Theft",
+    "answer": "Identity theft can take many forms. Potential ramifications depend on the aims of bad actors and the personally identifiable information, or “PII,” that was compromised in the identity theft. However, some commonalities in identity theft can be identified."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/identity-theft/identity-theft-protection",
+    "question": "Common Identity Theft Warning Signs",
+    "answer": "How do you know if your identity is compromised? Keep an eye out for these identity theft warning signs – and act immediately if you notice any of them!"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/identity-theft/identity-theft-protection",
+    "question": "What Is Identity Theft Protection?",
+    "answer": "The term “identity theft protection” covers a range of proactive measures you can take to help safeguard your personal and financial information from unauthorized access and fraud."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/identity-theft/identity-theft-protection",
+    "question": "Why Is It Important To Have Identity Theft Protection?",
+    "answer": "When it comes to guarding against identity theft, good habits go a long way. Protecting your identity can help mitigate financial loss. If this happens, catching identity theft attempts early can protect your credit standing by stopping fraudsters before they do significant damage."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/identity-theft/identity-theft-protection",
+    "question": "What To Do if Your Identity Is Stolen",
+    "answer": "If you discover that your identity has been compromised, it’s important to act quickly."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/identity-theft/identity-theft-protection",
+    "question": "How To Report Identity Theft",
+    "answer": "As soon as you realize you’ve been the victim of identity theft, consider taking these steps:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/identity-theft/identity-theft-protection",
+    "question": "How To Put a Freeze on Your Credit Report",
+    "answer": "Did you notice some suspicious activity? Contact each of the three major credit bureaus to request a credit freeze, effectively preventing any new credit accounts from being opened in your name. Freezing your credit is free and can be lifted at any time using a PIN or password provided by the relevant credit bureaus."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/identity-theft/identity-theft-protection",
+    "question": "Consider an Identity Theft Recovery Service",
+    "answer": "Identity theft is complicated, and it’s always evolving, so you may want to consider signing up for a reputable identity theft recovery service. These services specialize in guiding identity theft victims through the recovery process. Some also offer legal and financial assistance."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/resources/identity-theft",
+    "question": "What is identity theft?",
+    "answer": "By definition, identity theft is the act of stealing any combination of personally identifiable information, usually with the intention of assuming someone else’s identity or reselling the stolen data for financial benefit. Personally identifiable information that’s susceptible to theft can include your home address, birthdate, Social Security number, credit card number, driver’s license number, and more."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/r-legal/report-copyright-or-trademark-infringement",
+    "question": "DuckDuckGo VPN (DuckDuckGo Subscription, Inc.)",
+    "answer": "DuckDuckGo VPN is a transitory digital communications service, as defined by Section 512(a) of the U.S. Copyright Act. We cannot remove content upon notifications of claimed infringement because we do not store such material on our servers. In service of our privacy-focused mission, we do not keep logs of user activity so we are unable to tie online activity to a particular account."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/privacy-labels",
+    "question": "Data collected by Apple",
+    "answer": "You should also be aware that if you have opted in, Apple collects crashes and performance metrics for all apps, including ours, and that we have access to this data."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/features/finance",
+    "question": "Terms and Disclaimers",
+    "answer": "Index values are provided with at least 15 minutes delay."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/features/finance",
+    "question": "S&P Dow Jones Indices LLC",
+    "answer": "© S&P Dow Jones Indices LLC 2022. All rights reserved. S&P Dow Jones Indices LLC, S&P Opco, LLC, and/or their licensors own the indexes and the index values, and all intellectual property rights therein, including, without limitation, any patent, trade secret, copyright, and trademark rights (whether or not such rights are registered)."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/features/finance",
+    "question": "XE Currency Conversion",
+    "answer": "Data provided by XE.com Inc. The data is for personal informational use only. You may not store, modify, reproduce, sell, disclose, distribute, publish, modify or otherwise exploit the data for any other purpose. The data may not be used for the purpose of trading securities by professional traders. All use of the data must comply with applicable laws. The data is provided as-is, there is no guarantee as to its accuracy or timeliness, and your use of the data is at your own risk. By accessing the data, you agree to comply with the XE Terms and conditions detailed at https://www.xe.com/legal ."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/r-legal/regulatory-reporting",
+    "question": "Digital Services Act (EU 2022/2065)",
+    "answer": "Point of contact for Member States’ authorities, the European Commission, and the European Board for Digital Services"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/r-legal/regulatory-reporting",
+    "question": "Point of contact for Member States’ authorities, the European Commission, and the European Board for Digital Services",
+    "answer": "DuckDuckGo’s single point of contact is legal@duckduckgo.com . English is the preferred language for communication with this point of contact."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/r-legal/regulatory-reporting",
+    "question": "How DuckDuckGo users can contact us",
+    "answer": "You can reach out to us in various ways. Just reference the Contact Us page to find the applicable details."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/r-legal/regulatory-reporting",
+    "question": "Legal Representative for the DSA",
+    "answer": "DuckDuckGo’s legal representative for the DSA is:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/r-legal/regulatory-reporting",
+    "question": "EU Monthly Active Users of Our Online Search Engine",
+    "answer": "When searching or browsing on DuckDuckGo, we don’t track you, ever. That’s our Privacy Policy in a nutshell. For example, we do not create unique cookies and, more generally, architect our search engine and browser so that we cannot even create a search or browsing history for any individual — it’s privacy by design."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/r-legal/privacy-rights",
+    "question": "How to Contact us and Submit Privacy Related Requests",
+    "answer": "To contact Duck Duck Go, Inc. or its subsidiaries such as DuckDuckGo Subscription, Inc. you may use the contact information below for any of the rights listed above, or to submit a general privacy related inquiry or complaint."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/r-legal/privacy-rights",
+    "question": "Information on consumer disputes for Privacy Pro users based outside of the United States",
+    "answer": "In the event of a dispute with us about Privacy Pro, in addition to the courts as outlined in the Privacy Pro (non-U.S.) Privacy Policy and Terms of Service , you may also have recourse to a consumer mediator or to an alternative dispute settlement method."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/duckai/usage-limits",
+    "question": "Can I pay to increase the usage limit?",
+    "answer": "Not at this time, but we are considering this possibility for the future."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/duckai/usage-limits",
+    "question": "Why do I hit a usage limit immediately after starting a conversation?",
+    "answer": "Due to the way we anonymously enforce usage limits, you may see this error message when using a VPN or cellular network. Try switching VPN locations or switching from a cellular network to WiFi, and see if that resolves the issue. If the issue persists, please use the Share Feedback button at the bottom of the chat page to report it."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/duckai/usage-limits",
+    "question": "Is the method to impose these limits private?",
+    "answer": "Yes. Per our strict Privacy Policy , “We don’t save your IP address or any unique identifiers alongside your searches or visits to our websites. We also never log IP addresses or any unique identifiers to disk.” The same applies to Duck.ai chats. To impose usage limits, we use a similar method as we do in search to prevent abuse. While we cannot divulge the exact method in order to protect our system from bad actors and misuse, it is engineered in such a way that makes it completely anonymous. For more info on how we manage that technically in other contexts, please see this help page ."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/duckai/chat-models",
+    "question": "Does DuckDuckGo moderate chat responses in any way?",
+    "answer": "No, we do not filter or modify the responses received from the chat model in any way. As such, responses may contain inaccurate or offensive information. Anthropic , Meta , Mistral , and OpenAI each have their own moderation policies, and you may see those applied when using their models, respectively."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/duck-player",
+    "question": "How does Duck Player work?",
+    "answer": "The browser’s built-in video player protects you from tracking cookies and personalized ads by enforcing YouTube’s strictest privacy settings for embedded video, all within a clean, theater-like interface. In our testing, Duck Player prevented ads from loading on most videos altogether. When watching with Duck Player, YouTube can still log video views, so it’s not completely anonymous, but your viewing history does not contribute to your personalized recommendations or your YouTube advertising profile."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/duck-player",
+    "question": "How do I use Duck Player?",
+    "answer": "All you need to do is download DuckDuckGo Privacy Browser for Mac , Windows , iOS or Android and turn on Duck Player in Settings. You can choose to always open YouTube videos in Duck Player, never use Duck Player, or make it optional – perfect for when you’re sharing your screen, using a shared device, or just trying to stay focused. It’s equally easy to get back to the default version of YouTube whenever you want."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/identity-theft-restoration/suspicious-activity",
+    "question": "I have a question not covered here, how can I get help?",
+    "answer": "Please contact support at privacypro@duckduckgo.com . If you have ideas on how to improve Privacy Pro, please share it using the Share Feedback button in the DuckDuckGo browser."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/identity-theft-restoration/covered-losses",
+    "question": "How does it help recover my financial losses?",
+    "answer": "For U.S. subscribers, we'll work with financial institutions to help reverse any fraudulent transactions and reimburse certain expenses incurred throughout the restoration process. The reimbursement benefit is only available to U.S. subscribers, and is underwritten by an authorized insurance company under insurance policies issued to Iris . Please review the Summary of Benefits to understand the full coverage terms, conditions, and exclusions. And while case managers can’t work with financial institutions outside the U.S. directly, they can provide guidance to subscribers in all regions as you navigate the recovery process."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/identity-theft-restoration/covered-losses",
+    "question": "Are cryptocurrency losses covered?",
+    "answer": "Cryptocurrency losses are not covered."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/identity-theft-restoration/iris",
+    "question": "Who is Iris?",
+    "answer": "Iris® Powered by Generali is one of the oldest firms specializing in identity theft in the U.S. and has 20 years of experience in helping people recover from identity theft. Iris' identity theft advisors are available 24/7, every day of the year, and answer calls within 30 seconds on average. This responsiveness has earned them 18 customer service awards over the last 10 years."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/identity-theft-restoration/iris",
+    "question": "What personal information is shared with Iris?",
+    "answer": "In order to provide assistance, Iris will need to verify your identity and collect some details about your identity theft case. No personal information is shared between Iris and DuckDuckGo."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/identity-theft-restoration/getting-started",
+    "question": "How do I get Identity Theft Restoration?",
+    "answer": "Identity Theft Restoration is included in the DuckDuckGo Privacy Pro subscription . To subscribe to Privacy Pro and get covered by Identity Theft Restoration, first download the DuckDuckGo Browser on mobile or desktop and subscribe to Privacy Pro in the browser settings. As soon as you subscribe, Identity Theft Restoration is available to you should you become a victim of identity theft."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/identity-theft-restoration/getting-started",
+    "question": "How does Identity Theft Restoration help?",
+    "answer": "Identity Theft Restoration is a service offered by and in partnership with Iris® Powered by Generali , a leader in helping people recover from identity theft. If you become a victim of identity theft while you’re subscribed to Privacy Pro, Iris will assign you a personal advisor to help resolve issues."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/personal-information-removal/bypass-vpn-setting",
+    "question": "Is Personal Information Removal traffic still hidden from my ISP if it bypasses the VPN?",
+    "answer": "Yes. When the VPN is on, automated scans and removal requests from Personal Information Removal are still hidden from your Internet service provider even when “allow traffic to bypass the VPN” is on. That’s because we still route DNS queries for data broker sites through the VPN, sending them through our own DNS resolver instead of your ISP, which adds an additional privacy layer to the VPN."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/personal-information-removal/overdue-removal-requests",
+    "question": "What can I do to make sure an overdue record is removed?",
+    "answer": "When a record becomes overdue, Personal Information Removal will continue to monitor the record and check to see if it has been removed every few days. Overdue records are usually removed eventually, but in some cases the site may not honor the original removal request."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/personal-information-removal/removal-process",
+    "question": "How long does it take for my info to be removed from data broker sites?",
+    "answer": "The time it takes to remove your information varies from site to site. Some sites process removal requests within 24 hours, while others can take up to 6 weeks. Most removal requests just take a few days. Once Personal Information Removal finds your info on a site, it begins the removal process immediately."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/personal-information-removal/removal-process",
+    "question": "Do I need to leave the browser running while a scan is in progress?",
+    "answer": "While scans and removals are performed from your device, the browser does not need to be open for these processes to run. Once you have Personal Information Removal set up, everything runs in the background."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/personal-information-removal/removal-process",
+    "question": "Are there sites my personal information won’t be removed from?",
+    "answer": "Personal Information Removal is focused on the largest data brokers and people-search sites. You can review the list of sites we currently remove information from here ."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/personal-information-removal/removal-process",
+    "question": "Why does my personal information still turn up in search results?",
+    "answer": "Personal Information Removal targets data brokers and people-search sites, but your information may exist on other sites that can still appear in search results. Search engines may also still show your information on cached data broker site results until it crawls the updated site again. The timing with which different search engines update their results varies but, over time, Personal Information Removal should reduce how much of your information turns up in search results overall but cannot completely prevent it from reappearing over time."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/personal-information-removal/removal-process",
+    "question": "Can my personal info reappear on people-search sites after removal?",
+    "answer": "Yes, personal info can reappear on people-search sites if it’s collected from new sources. We re-scan sites regularly to ensure your information is promptly removed if it appears again."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/personal-information-removal/privacy",
+    "question": "How does Personal Information Removal keep my personal information provided for scanning secure?",
+    "answer": "Unlike other services, Personal Information Removal happens from your device and not on remote servers. For example, all the information you provide during setup, like your name and age, is stored locally on your device. Removal requests to data broker sites are also submitted directly from your device. This too is unlike most other services where removal requests are initiated on remote servers. The only personal information we may receive in this process are confirmation emails from data broker sites, which we automatically handle for you and then delete within 72 hours."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/personal-information-removal/privacy",
+    "question": "What happens to my personal information if I cancel my Privacy Pro subscription?",
+    "answer": "If you cancel your Privacy Pro subscription, any data that was stored on your device for Personal Information Removal, including the info you entered to use Personal Information Removal (like names, locations, and age) will be deleted. That means any of your personal info that was previously removed may start showing up on data broker sites again, and we will no longer be assisting with removing it."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/personal-information-removal/getting-started",
+    "question": "How do I get Personal Information Removal?",
+    "answer": "DuckDuckGo Personal Information Removal is included in the DuckDuckGo Privacy Pro subscription for US residents . To subscribe to Privacy Pro and use Personal Information Removal, first download the DuckDuckGo Browser on desktop and subscribe to Privacy Pro in the browser settings. Once you’ve subscribed, you’ll be able to start using Personal Information Removal from the Settings menu in the browser."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/personal-information-removal/getting-started",
+    "question": "How does Personal Information Removal work?",
+    "answer": "When you use Personal Information Removal for the first time, the app will ask for your name, age, and address. This data is stored locally on your device and never shared with DuckDuckGo."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/personal-information-removal/getting-started",
+    "question": "What are data brokers, and how did they get my data?",
+    "answer": "Data brokers collect and sell personal data, which they aggregate from public records, Internet trackers, and other sources. This information may include your name, physical address, birth date, the names of your relatives, and more. Many of these sites will display some amount of your personal information for free to anyone who searches for your name."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/personal-information-removal/getting-started",
+    "question": "Can you remove personal information for a family member?",
+    "answer": "Currently, Personal Information Removal is only intended for use by the individual who subscribed to Privacy Pro. Each person who wants to remove their own personal information would need to purchase their own Privacy Pro subscription."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/personal-information-removal/getting-started",
+    "question": "Is Personal Information Removal available outside the U.S.?",
+    "answer": "Personal Information Removal is only available in the U.S. where data collection is a pervasive issue. In the E.U. and many other regions, regulations like GDPR prevent data brokers from collecting and selling personal information without consent in the first place."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/personal-information-removal/getting-started",
+    "question": "What sites does Personal Information Removal cover?",
+    "answer": "Personal Information Removal currently removes personal data from the following websites:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/port-forwarding",
+    "question": "Does the DuckDuckGo VPN block any ports?",
+    "answer": "Yes, we block ports 25, 137, 138, 139, 445, and 6881–6889."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/port-forwarding",
+    "question": "Can I torrent TV shows and other content using the DuckDuckGo VPN?",
+    "answer": "Our VPN cannot be used to infringe the intellectual property rights of others, or for any other illegal activity, per the Privacy Pro Terms of Service . While we recognize there are non-infringing uses of torrenting, we made the decision to block destination ports commonly used for torrenting. We also prohibit port forwarding."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/app-tracking-protection",
+    "question": "Why don't other VPNs work with App Tracking Protection?",
+    "answer": "Android only allows one active VPN interface at a time per device, and while App Tracking Protection is not a VPN itself, it does require a VPN interface to function."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/troubleshooting",
+    "question": "Why do I experience slower internet speeds?",
+    "answer": "As with any VPN, Internet speeds will decrease slightly because your device traffic must go through the extra step of traveling through an external VPN server before accessing the internet and returning to your device. However, the DuckDuckGo VPN is designed to minimize any impact on Internet speed."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/troubleshooting",
+    "question": "Do you limit speed, bandwidth, or data volume?",
+    "answer": "DuckDuckGo VPN does not have any set speed or bandwidth limits or caps, although we reserve the right to impose such limits, for example to prevent abuse or network errors. For more information, please see our Privacy Pro Terms of Service ."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/troubleshooting",
+    "question": "How do I access my printer or other local devices?",
+    "answer": "By default, local networks are excluded from the VPN on Android, iOS, and Mac to allow you to access your printer, smart home devices, and other local devices normally without adjusting any settings."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/troubleshooting",
+    "question": "Why do some sites or apps not work?",
+    "answer": "Some site or app developers may block VPN traffic. If a site or app is failing to load, try turning the VPN off before reloading the site or app. If that fixes the issue, you may need to temporarily turn off the VPN when accessing that site or app."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/dns-blocklists",
+    "question": "How does the DuckDuckGo DNS blocklist work?",
+    "answer": "When you try to access a website, your device performs a DNS query to translate the website name into an IP address. When the DuckDuckGo VPN is connected, these DNS queries will be sent to a DuckDuckGo DNS server."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/dns-blocklists",
+    "question": "How is the DuckDuckGo DNS blocklist created and updated?",
+    "answer": "The list of harmful domains is provided to us by our partner, Netcraft . The blocklist currently contains over 150,000 sites and is updated daily."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/dns-blocklists",
+    "question": "Can I disable or customize the DuckDuckGo DNS blocklist?",
+    "answer": "You can disable the DNS blocklist by turning off “Block risky domains” under VPN Settings > DNS Server . If you disable the blocklist, DNS queries will continue to use a DuckDuckGo DNS server, but none of your DNS queries will be checked against the blocklist or blocked."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/dns-blocklists",
+    "question": "A site was wrongfully blocked. How can I report it?",
+    "answer": "If you believe a website was incorrectly blocked by the DuckDuckGo VPN, you can report it to us at privacypro@duckduckgo.com . You can also use the “Share Feedback” option found in the DuckDuckGo browser menu."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/servers",
+    "question": "Do you plan to add more VPN servers and locations?",
+    "answer": "We are proactively monitoring our network capacity and routinely add servers to existing locations as needed."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/protocols",
+    "question": "Does the VPN support TCP or IPv6 traffic?",
+    "answer": "Our VPN doesn’t currently support TCP or IPv6 traffic, but we do plan to do so in the future."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/protocols",
+    "question": "Does the VPN work with Apple's iCloud Private Relay?",
+    "answer": "No. Traffic that goes through DuckDuckGo VPN will not use iCloud Private Relay."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/protocols",
+    "question": "Can I configure the VPN myself or do I have to use the DuckDuckGo browser?",
+    "answer": "The DuckDuckGo browser is required to use the VPN, but once enabled it works across all apps on your device."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/what-is-vpn",
+    "question": "How can I use the VPN?",
+    "answer": "DuckDuckGo VPN is included in the DuckDuckGo Privacy Pro subscription . To subscribe to Privacy Pro and use our VPN, first download the DuckDuckGo Browser on mobile or desktop and subscribe to Privacy Pro in the browser’s settings. Once you’ve subscribed, you’ll be able to install and manage the VPN from the settings menu in the browser."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/what-is-vpn",
+    "question": "How does the VPN work?",
+    "answer": "Enabling the DuckDuckGo VPN establishes a secure, encrypted connection (VPN tunnel) between your device and one of our VPN servers. For all your device's network traffic that passes through this tunnel, the VPN prevents others, such as your Internet service provider, from seeing this activity. It also prevents your Internet destinations, like websites, from seeing your device’s IP address."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/what-is-vpn",
+    "question": "Is all network traffic protected or only web browsing?",
+    "answer": "The VPN protects Internet connections across your full device, not just your web browsing activity. If the VPN experiences an interruption, all internet traffic will automatically be blocked until the VPN either reconnects or you turn off the VPN."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/what-is-vpn",
+    "question": "Why use DuckDuckGo VPN over others?",
+    "answer": "Unlike many other VPNs, our VPN is private with a strict no-logging policy. It is also easy to use; there’s no need to install a separate app and, using the DuckDuckGo browser, you can connect in just one click. Our VPN offers full device coverage on up to 5 devices at once and is fast and reliable, with servers across the US, Canada, and Europe."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/vpn/what-is-vpn",
+    "question": "Are there countries where I can’t use the DuckDuckGo VPN?",
+    "answer": "If you’re a Privacy Pro subscriber traveling outside of your home country, you can use the VPN anywhere it is legal to do so."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/using-privacy-pro-outside-us",
+    "question": "Is Privacy Pro available in my country?",
+    "answer": "Privacy Pro is currently available to subscribers in the following regions:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/using-privacy-pro-outside-us",
+    "question": "How do I sign up outside the U.S.?",
+    "answer": "Subscribers in all supported regions can sign up via the DuckDuckGo browser. In Canada, the E.U., and the U.K. you’ll need to download the browser from the Apple App Store ( desktop or mobile ) or the Google Play Store . Once you have the browser installed, open the Settings menu, select “Privacy Pro” and follow onscreen instructions."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/using-privacy-pro-outside-us",
+    "question": "Is DuckDuckGo VPN available outside the U.S.?",
+    "answer": "Yes, all Privacy Pro subscribers can use the DuckDuckGo VPN on up to five devices at once. We offer VPN server locations worldwide ."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/using-privacy-pro-outside-us",
+    "question": "Is Identity Theft Restoration available outside the U.S.?",
+    "answer": "Yes, Identity Theft Restoration is available to all subscribers, though features and coverage vary by region. Regardless of region, all subscribers get a dedicated case manager to support you through the restoration process. In Canada, the E.U., and the U.K., reps don’t work directly with your financial institutions, but they'll provide expert guidance to help you navigate it all. Outside the U.S., Identity Theft Restoration services are available in English, Spanish, French, Italian, and German. If a case manager who speaks your selected language is not available, an interpreter may be provided."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/adding-email",
+    "question": "What if I don’t want to link my email address?",
+    "answer": "You can activate your subscription in the following ways to avoid sharing your email address with DuckDuckGo."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/adding-email",
+    "question": "If I choose to link an email, do I need to use the same email to activate Privacy Pro on multiple devices?",
+    "answer": "Yes. Currently, Privacy Pro only supports one email per subscription. You can change this email address, but you can’t link two emails to the same subscription."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/activating",
+    "question": "Do I need the DuckDuckGo browser to use Privacy Pro?",
+    "answer": "Yes. All Privacy Pro features are set up and accessed through the DuckDuckGo browser."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/payments",
+    "question": "What payment methods are accepted for Privacy Pro?",
+    "answer": "If you purchase Privacy Pro from a DuckDuckGo browser downloaded from the Google Play Store or App Store, they handle the payments directly — accepting any payment method associated with your app store account. Their respective privacy policies and terms of service apply to payment processing."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/payments",
+    "question": "How do I manage, upgrade, or cancel my subscription, or edit my payment method?",
+    "answer": "Where you can manage or change your subscription or payment method depends on the platform on which you subscribe:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/payments",
+    "question": "How do I check when my subscription expires?",
+    "answer": "Your subscription will auto-renew monthly or annually, depending on the payment terms selected, until canceled. The renewal or expiration date (if you’ve canceled) is available in the Privacy Pro settings section within the DuckDuckGo browser."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/terms-and-privacy",
+    "question": "Do I need to share personal information to subscribe to Privacy Pro?",
+    "answer": "You don’t need to share any personal information with DuckDuckGo in order to use Privacy Pro. We believe the best way we can protect your personal information is to not collect it at all."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/terms-and-privacy",
+    "question": "What happens to my data after I cancel my subscription?",
+    "answer": "If you choose to cancel Privacy Pro, we will delete any personal information we have (for example, your email address) within 30 days, unless we are legally required to keep it longer."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/getting-started",
+    "question": "How do I subscribe to Privacy Pro?",
+    "answer": "You can subscribe to Privacy Pro directly from the DuckDuckGo browser (available on iOS , Android , Mac , and Windows ). Open the Settings menu and select “Privacy Pro”."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/getting-started",
+    "question": "Why can’t I see the Privacy Pro subscription in my browser?",
+    "answer": "If you can’t find Privacy Pro in the Settings menu of the DuckDuckGo browser, it could be because:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/getting-started",
+    "question": "Can I use my subscription on multiple devices?",
+    "answer": "You can access your subscription on any device that has the DuckDuckGo browser installed. Here’s how:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/getting-started",
+    "question": "What is a one-time passphrase and how do I use it?",
+    "answer": "Instead of using a traditional password, DuckDuckGo Privacy Pro uses one-time passphrases (OTPs) as an option for activating your subscription. If you have added an email address to your subscription, you can use it to activate Privacy Pro on a new device or restore your purchase. We’ll send you an email with a one-time passphrase that you’ll need to enter in the same browser you’re trying to activate from."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/getting-started",
+    "question": "What if I did not receive the one-time passphrase email to access my subscription?",
+    "answer": "If you did not receive the one-time passphrase email to activate your DuckDuckGo Privacy Pro subscription on a new device, please first confirm that you have added an email address to your subscription. This can be checked with the following steps."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/getting-started",
+    "question": "Can I share my subscription with friends or family?",
+    "answer": "We currently don’t offer a Privacy Pro family plan or support sharing a subscription with friends or family."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy-pro/getting-started",
+    "question": "Can I subscribe to just one of the three services offered in Privacy Pro?",
+    "answer": "Currently, Privacy Pro is a bundled subscription and there is no way to subscribe to its features individually."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection/is-app-tracking-protection-a-vpn",
+    "question": "Is my data private?",
+    "answer": "Yes. As explained above, App Tracking Protection just works on your device and doesn’t send your personal data off your device to DuckDuckGo or other companies."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection/is-app-tracking-protection-a-vpn",
+    "question": "If not a VPN, then why does App Tracking Protection use a VPN connection?",
+    "answer": "You will be asked to set up a virtual private network (VPN) connection, but you don’t need to install a VPN app for App Tracking Protection to work."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/p-app-tracking-protection/is-app-tracking-protection-a-vpn",
+    "question": "Will App Tracking Protection work if I also use a VPN app?",
+    "answer": "App Tracking Protection is only compatible with the DuckDuckGo VPN. Because Android only allows one active VPN connection per device, App Tracking Protection won’t work with other VPNs. However, the DuckDuckGo VPN can share the same VPN connection because both features are managed by the DuckDuckGo browser."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/password-manager-security",
+    "question": "On-Device Encryption & Storage",
+    "answer": "Unlike other browsers and password managers, you won’t have to set up another account to remember or autofill passwords in DuckDuckGo. That’s because we don’t store your passwords in the cloud by default — we encrypt them (via 256-bit AES) before stashing them securely on your device."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/password-manager-security",
+    "question": "Biometric or Passcode Unlock",
+    "answer": "We designed our password manager to leverage the security built-in to your Apple, Windows, and Android devices. Your saved passwords can only be accessed or used after authenticating with built-in biometric security, for example Face ID or Touch ID, or your passcode."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/password-manager-security",
+    "question": "Secure Password Generation",
+    "answer": "Using the same password for different sites makes that password less secure, and remembering unique passwords for all your sites can be a pain. The DuckDuckGo password manager gives you one-touch access to a strong random password whenever you sign up to a new site, which you can easily access whenever you sign back in."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/password-manager-security",
+    "question": "End-To-End Encrypted Sync & Backup",
+    "answer": "If you set up private Sync & Backup in DuckDuckGo, we store your data on our servers in a way that prevents us and others from reading it but lets you access up-to-date logins in DuckDuckGo browsers on your other devices."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/disable-sync-and-backup",
+    "question": "How do I turn off Sync & Backup on one of my devices?",
+    "answer": "You can think of this as “signing out” on one of your devices. Your synced data will remain on our server, and any other devices using Sync & Backup will not be affected. No data will be deleted locally."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/disable-sync-and-backup",
+    "question": "How do I turn off Sync & Backup for good and delete all data on the server?",
+    "answer": "To stop using Sync & Backup entirely:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/recovery-codes-and-troubleshooting",
+    "question": "What is the Recovery Code? Why do I need it?",
+    "answer": "Your Recovery Code is the only way to recover your synced data if you lose access to all the devices on which you have enabled DuckDuckGo Sync & Backup. It provides full, unencrypted access to all your data — so, first and foremost, make sure to keep the Recovery Code private and do not share it with anyone."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/recovery-codes-and-troubleshooting",
+    "question": "Why is it beneficial to setup Sync & Backup on more than one device?",
+    "answer": "Setting up Sync & Backup on more than one device makes your bookmarks and passwords easily accessible on each of your devices. If one of your devices is lost or damaged, or if you’re setting up a new device, you can use the second device to recover previously synced data on your replacement device."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/recovery-codes-and-troubleshooting",
+    "question": "If I lose my device, how can I recover my data?",
+    "answer": "To recover your data, you’ll either need your Recovery Code or another device with Sync & Backup already enabled. To recover your data using the Recovery Code:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/recovery-codes-and-troubleshooting",
+    "question": "I lost my device, lost my Recovery Code, and do not have Sync & Backup currently enabled on any of my other devices. Is there any way to recover my data?",
+    "answer": "No, unfortunately not – that’s why it’s important to keep your Recovery Code in a safe place, and/or use Sync & Backup on multiple devices. Because Sync & Backup is end-to-end encrypted, DuckDuckGo does not have your Recovery Code and cannot provide access to your data in this scenario."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/syncing-favorites",
+    "question": "How are favorites different than bookmarks?",
+    "answer": "The DuckDuckGo browser lets you mark certain bookmarks as a “favorites.” For quick access, favorited bookmarks are displayed in convenient locations, such as the New Tab page. Marking a bookmark as a favorite on one device type will not result in it being marked as a favorite on other devices by default, even if you’ve turned on Sync & Backup."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/syncing-favorites",
+    "question": "Can I keep the same favorites across all my devices?",
+    "answer": "Yes, you can! If you want the same favorites displayed across all your devices, do this after you enable Sync & Backup:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/syncing-favorites",
+    "question": "I'd like my bookmarks and favorites to show the website’s icon, instead of placeholder letters. How can I get icons to show up for my synced bookmarks?",
+    "answer": "Automatically downloading website icons (favicons) for synced bookmarks has privacy implications to consider, so this feature is available on an opt-in basis. To turn it on:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/importing-passwords",
+    "question": "On Mac or Windows:",
+    "answer": "There are two ways to import your passwords."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/importing-passwords",
+    "question": "The quickest is to Import them into the DuckDuckGo browser:",
+    "answer": "Open DuckDuckGo on your Mac or Windows computer. Go to Settings > Passwords & Autofill . Select Import Passwords… and follow the steps to import."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/importing-passwords",
+    "question": "Another way is to download or Export Passwords as a .CSV File (only necessary if you use a third-party party password manager or an unsupported browser):",
+    "answer": "Open the browser or password manager where you currently have your passwords stored. Find the option to export passwords and download them as a .CSV file. Refer to your browser or password manager's documentation for specific instructions."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/importing-passwords",
+    "question": "On Mobile devices:",
+    "answer": "There are also two ways to import your passwords."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/importing-passwords",
+    "question": "Import passwords directly on your mobile device:",
+    "answer": "Android Open DuckDuckGo on Android. Go to Settings > Passwords & Autofill . Select Import Passwords From Google… and follow the steps to import (if you’re already using DuckDuckGo Password Manager, click on ‘ … ’ in the top right of the screen). iOS Direct import coming soon."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/importing-passwords",
+    "question": "Import passwords in the desktop version of the DuckDuckGo browser, then sync across devices:",
+    "answer": "Open DuckDuckGo on Mac or Windows. Go to Settings > Passwords & Autofill . Select Import Passwords… and follow the steps to import. Set up Sync & Backup to access them on your mobile device."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/sync-and-backup-privacy",
+    "question": "Where is my data stored?",
+    "answer": "When you enable Sync & Backup, your data is encrypted right on your device. That encrypted data is uploaded to DuckDuckGo’s servers so it can stay in sync with your other devices. (Synced data can also be restored with your Recovery Code if you lose your device.) At no time can DuckDuckGo decrypt or access your data."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/sync-and-backup-privacy",
+    "question": "What does it mean to be end-to-end encrypted?",
+    "answer": "When you enable Sync & Backup, a unique encryption key is generated locally on your device. A copy of this encryption key is saved on any other devices that you sync. It’s also stored within your Recovery Code, in case your devices are lost or damaged."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/sync-and-backup-privacy",
+    "question": "What specific data will be synced?",
+    "answer": "Sync & Backup covers your bookmarks, passwords, and your Email Protection account. We expect to add more types of data over time."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/sync-and-backup-privacy",
+    "question": "Can I sync and back up only my bookmarks but not my passwords, or vice versa?",
+    "answer": "Currently, Sync & Backup is an all-or-nothing feature. In the future, we expect to add the ability to sync certain data types but not others."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/sync-and-backup-privacy",
+    "question": "Is there a limit to the amount of data that I can sync?",
+    "answer": "Yes, but it is a very high limit meant only to prevent abuse. We don’t expect anyone to hit this limit with regular usage."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/syncing-new-devices",
+    "question": "How do I add a new device to Sync & Backup after initial setup?",
+    "answer": "Open the DuckDuckGo browser Go to Settings > Sync & Backup Select Sync With Another Device Follow the on-screen instructions, which are the same steps used in initial setup, as described in Enable Sync & Backup"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/syncing-new-devices",
+    "question": "On which platforms is DuckDuckGo Sync & Backup available?",
+    "answer": "The DuckDuckGo browser is available for iOS, Android, Mac, and Windows. Sync & Backup is available in all of them — and it’s the best way to enjoy them together."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/enable-sync-and-backup",
+    "question": "How do I enable Sync & Backup?",
+    "answer": "If you’re syncing two devices:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/enable-sync-and-backup",
+    "question": "Do I have to provide my email address or any other personal information to use Sync & Backup?",
+    "answer": "No. We designed Sync & Backup to work without any personal information from you."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/enable-sync-and-backup",
+    "question": "Does it cost money to use Sync & Backup?",
+    "answer": "No, it’s a free feature of the DuckDuckGo browser."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/sync-and-backup/enable-sync-and-backup",
+    "question": "What if I have two devices, but neither of them has a camera?",
+    "answer": "Scanning a QR code is not required to connect to devices. Instead, you can manually enter an alphanumeric code."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/phishing-and-malware-protection",
+    "question": "Why is phishing and malware protection necessary?",
+    "answer": "Phishing and malware are two of the most common online security threats. Cybercriminals use phishing to trick people into giving them personal information, such as usernames, passwords, and credit card numbers. They also try to get people to download malware that can infect phones or computers to cause damage or extract personal information. Phishing and malware protection is designed to alert you to sites that have been flagged for making phishing attempts or hosting malware. You can disable this feature in the DuckDuckGo browser settings menu."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/phishing-and-malware-protection",
+    "question": "How does phishing and malware protection work anonymously in DuckDuckGo browsers?",
+    "answer": "To start, your browser needs to know which websites have been flagged for phishing or malware. This list of sites is provided to us by our partner, Netcraft , and we store the list on our servers. Your browser downloads a version of this list from DuckDuckGo so it’s available locally on your device. When you navigate to a site, your browser first checks the site against the list stored on your device. If the site is on the list, your browser shows a warning message that gives you the option to navigate away safely or to continue to the site at your own risk."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/embedded-content-protection",
+    "question": "How to Disable this Protection",
+    "answer": "You can disable Embedded Social Media Protection for any website by following these instructions:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "3rd-Party Tracker Loading Protection",
+    "answer": "When you visit a website, the web address (URL) in your browser’s address bar tells your browser where to go. What you may not realize, is that sites also try to load other URLs in the background while your destination page is loading. Many of those URLs come from other companies, commonly referred to as “3rd parties.”"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "3rd-Party Cookie Protection",
+    "answer": "Believe it or not, web “cookies” were originally designed to be a helpful data storage mechanism. However, 3rd-party cookies have become one of the most common methods of web tracking."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "1st-Party Cookie Protection",
+    "answer": "Unlike 3rd-party cookies, 1st-party cookies are less likely to be involved in cross-site tracking because they can only be retrieved from the site where they were originally created. However, 1st-party cookies can still be used to re-identify you when you later return to a website. This can be helpful when used to recognize that you’re still signed in, but 1st-party cookies can also be used to monitor your activity on sites over time and facilitate cross-site tracking. That’s because identifiers stored in 1st-party cookies can be sent to 3rd-party companies when their requests are directly embedded in the content of a website."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "CNAME Cloaking Protection",
+    "answer": "Some 3rd-party trackers disguise their real (origin) domains as subdomains of the website they’re hiding on, so they appear to belong to the website owner (1st party). This can help them escape common 3rd-party tracking protections. For example, metrics.example.com looks like it belongs to the example.com website owner, but the metrics.example.com subdomain may actually have a 3rd-party tracking company behind it."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "Smarter Encryption (HTTPS Upgrading)",
+    "answer": "If the web address you are visiting starts with http:// , that means the Internet connection to the website is unencrypted, and everything you do or see on that website is vulnerable to network onlookers, including the specific page you are on and any information you submit about yourself while there. If the web address starts with https:// (with an s at the end), the Internet connection is encrypted, and anyone trying to spy on you (like your Internet provider or Wi-Fi snoopers) can’t see anything beyond the website you’re going to."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "Link Tracking Protection",
+    "answer": "The links embedded in websites, social media, and emails that we share and click on every day often contain additional URL parameters after the destination domain. While many of these parameters aren’t used for tracking purposes, others are added to specifically track your behavior across sites (for example: example.com/page.html?fbclid=your_facebook_account_ID )."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "Referrer Tracking Protection",
+    "answer": "When content loads in a web browser, the browser and any servers through which the request passes along the way use metadata in what’s called the “header” to determine what to do with the request. Part of this header is known as the “referrer,” which allows a server to identify the last place a user was before they arrived on that site. Sometimes this is used for security checks (like when you sign in to a website), but it can also be hijacked by companies to send along additional data that could help them track and fingerprint you."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "Embedded Social Media Protection",
+    "answer": "When you visit a website that contains embedded content from social media companies (such as YouTube videos, Tweets, Facebook comments, or sign-in buttons), that content often includes tracking code that those companies use to link your user information (like IP address and browser details) with your browsing history."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "Google AMP Protection",
+    "answer": "Google's Accelerated Mobile Pages (AMP) is marketed as a way to “make it easy to build fast websites” by serving them from Google, but Google can also use AMP to track users who read those pages."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "Google Topics Protection",
+    "answer": "Google is attempting to replace 3rd-party cookies within their browser with an alternative tracking mechanism called Topics . For Google Chrome users, Topics can use your Chrome browsing history to automatically infer your interests and align them with a predefined list of topics (for example, “Child Internet Safety” or “Personal Loans”). A subset of this list is shared with websites and other tracking companies so they can target you with ads just as easily — based on your behavior and without your knowledge."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "Google Protected Audience API Protection",
+    "answer": "Like Topics, the Google Protected Audience API (previously known as FLEDGE) is another Google mechanism meant to replace 3rd-party cookies. Its ultimate goal is also to “re-target” you with ads — in other words, letting Google ads follow you from website to website . The Google Protected Audience API works directly in the Chrome browser and uses your browsing history to run ad auctions in order to re-target you better and without you realizing it."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "Google Sign-in Pop-up Protection",
+    "answer": "Aggressive prompts to sign in using your Google Account are commonplace across the most popular websites, often popping up as soon as a website loads. Opting to sign in using your Google Account can give Google implicit permission to collect even more data about your activity on sites than they would typically have access to when you’re not signed in or if you chose a different sign-in method."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "Preserving Site Functionality",
+    "answer": "We aim to deliver privacy, simplified. Part of our ethos of simplicity is not breaking website functionality in the process of blocking and restricting trackers. We develop our protections with this mind, and we use the following techniques to further this effort as we continue to expand protections."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "Remotely Configured Exceptions",
+    "answer": "If you’re using our app or extension and suspect that a website usability issue was caused by one of the Web Tracking Protections detailed on this page, you can let us know by submitting a Broken Site Report. You can also temporarily disable DuckDuckGo’s Privacy Protection for individual websites to troubleshoot the issue you’re experiencing."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "DuckDuckGo Private Search Ads",
+    "answer": "Advertising on DuckDuckGo is done in partnership with Microsoft. Viewing ads on DuckDuckGo is anonymous, and Microsoft has committed to not profile our users on ad clicks: “when you click on a Microsoft-provided ad that appears on DuckDuckGo, Microsoft Advertising does not associate your ad-click behavior with a user profile. It also does not store or share that information other than for accounting purposes.”"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "The Fire Button",
+    "answer": "As you visit websites, everyday data, like regular cookies and browser storage, builds up locally in the browser. We’ve made it simple to clear data like this from the DuckDuckGo app’s local storage on your device with the “Fire Button.” This type of protection is not offered in most popular browsers by default ."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "Cookie Pop-up Protection",
+    "answer": "Cookie consent pop-ups often use dark design patterns to get you to accept the least private option. When DuckDuckGo detects a cookie pop-up on sites you visit, we can try to automatically set your cookie preferences to maximize privacy and minimize cookies, then close the pop-up. For sites that don't provide an option to manage cookie preferences on these pop-ups, we try to hide the pop-up instead using a combination of filter rules from open-source lists like EasyList Cookie List and our own cosmetic rules. In these cases, automatically hiding the pop-up is often still more private than selecting one of the limited options made available (e.g., “Accept All Cookies”). We currently offer coverage for most of the top 10,000 websites in the US, UK and EU and plan to expand coverage to additional websites over time."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "Global Privacy Control (GPC)",
+    "answer": "Global Privacy Control (GPC) intends to help you express your opt-out rights automatically by telling websites (through a header and/or JavaScript-based signal) not to sell or share your personal information. Whether it can be used to enforce your legal rights (for example, current or future CCPA, GDPR requirements) depends on the laws in your jurisdiction. You can learn more about GPC and review our open-source code for Chrome/Firefox/Edge/Opera , iOS , Android . This type of protection is not offered in most popular browsers by default ."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections",
+    "question": "How to Get our Web Tracking Protections",
+    "answer": "To get the privacy protections as described above, install the relevant DuckDuckGo app or extension:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/results/duckassistbot",
+    "question": "What is DuckAssistBot and what does it do?",
+    "answer": "DuckAssistBot is a web crawler for DuckDuckGo Search that crawls pages in real-time for our AI-assisted answers , which prominently cite their sources. This data is not used in any way to train AI models."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/results/duckduckbot",
+    "question": "What is DuckDuckBot and what does it do?",
+    "answer": "DuckDuckBot is a web crawler for DuckDuckGo . DuckDuckBot’s job is to constantly improve our search results and offer users the best and most secure search experience possible. The crawler's user agent will appear as DuckDuckBot/1.1; (+http://duckduckgo.com/duckduckbot.html) . It respects WWW:RobotRules and originates from these IP addresses:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/settings/cloud-save",
+    "question": "Where are my settings stored?",
+    "answer": "In browser cookies, which you can see in the, \"Bookmarklet and settings data\" link on the settings page ."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/settings/cloud-save",
+    "question": "What information gets saved?",
+    "answer": "Only the settings that you have changed. They are detailed on the URL Parameters page ."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/settings/cloud-save",
+    "question": "What does \"cloud save\" mean?",
+    "answer": "If you choose, you can save your settings more permanently by entering a passphrase. This has a few benefits:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/settings/cloud-save",
+    "question": "How does it work?",
+    "answer": "Your passphrase is used to generate a key using the Secure Hash Algorithm known as SHA-2 , using a 512 bit key. Your passphrase never leaves the browser, only the key and the settings file associated with it. We save the settings file on Amazon S3 using the generated key as the name. In the interest of transparency, this data is not encrypted: you can see exactly what information we store. Passphrases cannot feasibly be reverse engineered from a key - even if you could do that, there is no point since all the information is there in the open, unencrypted, provided you know the key. DuckDuckGo does not ever know your passphrase."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/settings/cloud-save",
+    "question": "How is it anonymous?",
+    "answer": "We do not have usernames and we don't store any personally identifiable information."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/settings/cloud-save",
+    "question": "How do I change my passphrase?",
+    "answer": "You can do this by saving your settings under a different passphrase, optionally deleting the first set."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/settings/cloud-save",
+    "question": "I forgot my passphrase. Can you recover it?",
+    "answer": "No. Unless you deleted your settings, the settings file will still be there but we have no way of associating it with you. We cannot reverse the passphrase key generation. We don't associate your IP address or browser fingerprint or any other information with the file."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/settings/cloud-save",
+    "question": "What is \"JSON\"?",
+    "answer": "JavaScript Object Notation - a simple, human-readable data format."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/results/syntax",
+    "question": "Search Directly on Other Sites",
+    "answer": "Use \\ to go to directly to the first search result. For example, \\futurama . Use ! to search other sites' search engines directly. Remember, though, because your search is actually taking place on that other site, you are subject to that site’s policies, including its data collection practices. For example, !a blink18 searches Amazon.com for blink182. There are thousands of sites covered !"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/features/safe-search",
+    "question": "Force Safe Search at a Network Level",
+    "answer": "For network administrators, you can force strict safe search for everyone on your network by mapping duckduckgo.com to safe.duckduckgo.com. Mapping to safe.duckduckgo.com will guarantee that safe search is enabled for all DuckDuckGo queries on the network, and that client safe search controls are disabled."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/results/local-results",
+    "question": "If you experience issues trying to use your location:",
+    "answer": "Ensure you have a strong WiFi or Cellular connection Try re-starting your web browser Check to make sure you have Location Services enabled on your device"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/results/local-results",
+    "question": "Chrome, Firefox, and Brave",
+    "answer": "Click the permissions icon in the address bar Ensure location is allowed Reload DuckDuckGo search, and try again"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/results/local-results",
+    "question": "You can disable your location again anytime",
+    "answer": "From Settings , scroll down to “Location”, and use the “Clear” button."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/results/local-results-mobile",
+    "question": "iOS: DuckDuckGo Private Browser",
+    "answer": "Open the Settings app Go to Privacy & Security > Location Services Select DuckDuckGo in the list and allow location access Turn on Precise Location for more accurate results Reload DuckDuckGo Search, and try again"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/results/local-results-mobile",
+    "question": "iOS: Safari and Other Browsers",
+    "answer": "Open the Settings app Go to Privacy & Security > Location Services Select your browser in the list and allow location access Reload DuckDuckGo Search, and try again"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/results/local-results-mobile",
+    "question": "Android: DuckDuckGo Private Browser",
+    "answer": "Long-press the DuckDuckGo app icon on the home screen Tap the app info icon Tap Permissions > Location Select an option to allow location access Turn on Precise Location for more accurate results Reload DuckDuckGo Search, and try again"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/mobile/firefox-android",
+    "question": "Installing our Android Add-On",
+    "answer": "DuckDuckGo Search & Tracker Protection add-on : Changes your browser search engine to DuckDuckGo Search, along with other privacy benefits such as tracker blocking and encrypted website connections (where possible). Learn more about our Web Tracking Protections ."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/mobile/firefox-android",
+    "question": "Changing Your Search Engine to DuckDuckGo",
+    "answer": "Instructions on how to change the default search engine:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/desktop/opera",
+    "question": "Installing Our Extension",
+    "answer": "DuckDuckGo Search & Tracker Protection extension : Changes your browser search engine to DuckDuckGo Search, along with other privacy benefits such as tracker blocking and encrypted website connections (where possible). Learn more about our Web Tracking Protections ."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/desktop/opera",
+    "question": "Adding DuckDuckGo to Speed Dial",
+    "answer": "Click here for instructions on how to add DuckDuckGo to Speed Dial."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/desktop/microsoft-edge",
+    "question": "Installing Our Add-On",
+    "answer": "DuckDuckGo Search & Tracker Protection add-on : Changes your browser search engine to DuckDuckGo Search, along with other privacy benefits such as tracker blocking, encrypted website connections (where possible) and a privacy grade for each site you visit. Learn more about our Web Tracking Protections ."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/desktop/chrome",
+    "question": "Making DuckDuckGo the Homepage",
+    "answer": "Click here for instructions on how to change your homepage in Chrome."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/get-duckduckgo/get-duckduckgo-browser-on-windows",
+    "question": "Unsupported Versions of Windows",
+    "answer": "If you get an error message when attempting to install DuckDuckGo on Windows indicating “this package is not compatible with the device\", try the following:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/get-duckduckgo/get-duckduckgo-browser-on-windows",
+    "question": "Application Package Error Message",
+    "answer": "If you get an error message when attempting to install DuckDuckGo on Windows that says \"Error parsing application package\", try the following:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/get-duckduckgo/get-duckduckgo-browser-on-mac",
+    "question": "Mac App Store Version Limitations",
+    "answer": "Bitwarden users should download from us directly instead of the Mac App Store, because the App Store version does not include a Bitwarden integration. If you use your browser to open local files, you should download from us directly. The Mac App Store version does not have access to local files."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/company/partnerships",
+    "question": "DuckDuckGo as a Search Option",
+    "answer": "We have many partnerships with apps, browsers and distributions that include us as a search option:"
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/company/partnerships",
+    "question": "Get in Touch",
+    "answer": "We're always interested in exploring more opportunities but we get a lot of inbound partnership requests, so it helps to be as specific as possible when suggesting a potential partnership. We simply don't have enough time to do everything right now, and so what we work on has to be compelling. Please send an email to bd@duckduckgo.com ."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/company/how-duckduckgo-makes-money",
+    "question": "Private ads on our search engine",
+    "answer": "It is a myth that search engines need to track you to make money. The majority of our revenue is from private ads on our search engine. On most other search engines, ads are based on profiles compiled from your personal information, such as search, browsing, and purchase history. Since we don’t have that information per our Privacy Policy , search ads on DuckDuckGo are based on the search results page you’re viewing instead of being based on who other companies and their tracking algorithms assume you are as a person. For example, if you search for cars, we’ll show you ads about cars. We’ve even created a way to show localized ads while still keeping you completely anonymous. See the Anonymous Localized Results help page for more information on how we do this technically."
+  },
+  {
+    "url": "https://duckduckgo.com/duckduckgo-help-pages/company/how-duckduckgo-makes-money",
+    "question": "Subscription fees from Privacy Pro",
+    "answer": "We also make money from subscription fees. Specifically, the monthly or annual fee that subscribers pay to access Privacy Pro , our three-in-one subscription service that includes a VPN , a Personal Information Removal service and an Identity Theft Restoration service."
+  }
+]
